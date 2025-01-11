@@ -44,7 +44,7 @@ const About = () => {
         <div className="relative h-64 mb-8">
           <div className="absolute inset-0 bg-gradient-to-b from-blue-950/30 to-blue-950/70 rounded-lg z-10" />
           <img
-            src="/image/img.jpg"
+            src="/Portfolio/image/img.jpg"
             alt="Game Development Setup"
             className="w-full h-full object-cover rounded-lg shadow-lg"
           />

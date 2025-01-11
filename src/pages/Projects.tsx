@@ -4,21 +4,21 @@ const projects = [
   {
     title: "Jeu d'Échecs",
     description: "Ce projet m'a permis de développer une interface graphique simple pour un jeu classique et de mettre en pratique des concepts de mathématiques pour gérer les déplacements des pièces. Il inclut aussi des fonctionnalités de base comme la détection des échecs et des mat.",
-    image: "/image/chess.png",
+    image: "/Portfolio/image/chess.png",
     tags: ["Python", "Pygame", "Math"],
     github: "https://github.com/stephanie2607/chess_game"
   },
   {
     title: "Escape Game",
     description: "Le jeu d'escape intègre des mécanismes de jeu où le joueur résout des énigmes pour progresser. Bien que simple, il m'a permis de me familiariser avec la gestion de l'interface utilisateur et des interactions utilisateur dans un environnement Java.",
-    image: "/image/room.png",
+    image: "/Portfolio/image/room.png",
     tags: ["Java", "Swing", "AWT"],
     github: "https://github.com/ManantsoaRayan/Escape_game_Java_Project"
   },
   {
     title: "Cellule Automate",
     description: "Une simulation de vie ou de mort de cellule pour créer des visualisations des comportements de systèmes complexes. Ce projet est une introduction vers le génération procédural et a été une excellente occasion de pratiquer la gestion de données avec NumPy et la création de visualisations dynamiques avec Matplotlib.",
-    image: "/image/automate.png",
+    image: "/Portfolio/image/automate.png",
     tags: ["Python", "Matplotlib", "NumPy"],
     github: "https://github.com/ManantsoaRayan/cellular_automata_project/"
   },
